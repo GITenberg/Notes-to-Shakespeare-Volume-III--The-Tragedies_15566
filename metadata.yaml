@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '6130'
     url: http://www.gutenberg.org/2009/agents/6130
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15566#Notes-to-Shakespeare-Volume-III--The-Tragedies
 gutenberg_issued: '2005-04-06'
 gutenberg_type: Text
 identifiers:
