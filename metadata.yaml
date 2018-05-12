@@ -1,0 +1,33 @@
+_repo: Notes-to-Shakespeare-Volume-III--The-Tragedies_15566
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Johnson, Samuel
+    birthdate: 1709
+    deathdate: 1784
+    gutenberg_agent_id: '297'
+    url: http://www.gutenberg.org/2009/agents/297
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Johnson
+  editor:
+    agent_name: Sherbo, Arthur
+    birthdate: 1918
+    deathdate: 2010
+    gutenberg_agent_id: '6130'
+    url: http://www.gutenberg.org/2009/agents/6130
+description: ''
+gutenberg_issued: '2005-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15566'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shakespeare, William, 1564-1616 -- Criticism and interpretation'
+- !lcc 'PR'
+title: 'Notes to Shakespeare, Volume III: The Tragedies'
+url: http://www.gutenberg.org/ebooks/15566
